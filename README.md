@@ -1,4 +1,6 @@
-##SSP Project repo
+**SSP Project repo**
+
+
 This will act as a record for what has been attempted and implemented for the SSP project.
 
 This document is an idea log and planning page for what to do next
